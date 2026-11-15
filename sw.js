@@ -1,6 +1,6 @@
 /* Exodia : garde l'application en mémoire pour qu'elle s'ouvre sans Internet.
    Changez le numéro de CACHE à chaque mise à jour de index.html. */
-const CACHE='exodia-v4';
+const CACHE='exodia-v5';
 const CORE=['./','./index.html','./manifest.webmanifest','./icon-180.png','./icon-192.png','./icon-512.png'];
 const EXTRA=[
   'https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Figtree:wght@400;500;600;700&display=swap',
